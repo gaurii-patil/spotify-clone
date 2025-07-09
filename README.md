@@ -57,7 +57,7 @@ This is a **clone of the Spotify web player interface**, built using only **HTML
 
 ## 🌐 Live Demo
 
-[Click here to view the live Spotify Clone](https://gauri-patil.github.io/spotify-clone/)
+[Click here to view the live Spotify Clone](https://gaurii-patil.github.io/spotify-clone/)
 
 
 ---
